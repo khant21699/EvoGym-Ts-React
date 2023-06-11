@@ -5,7 +5,6 @@ import {
 } from "@heroicons/react/24/solid";
 import { SelectedPage } from "../../shared/types";
 import { motion } from "framer-motion";
-import React from "react";
 import Benifit from "./Benifit";
 import ActionButton from "../../shared/ActionButton";
 import BenefitsPageGraphic from "../../assets/BenefitsPageGraphic.png";
