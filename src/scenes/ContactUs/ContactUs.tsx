@@ -78,7 +78,7 @@ export default function ContactUs({ setSelectedPage }: Props) {
             // viewport={{ amount: 0.1, once: true }}
             viewport={{ amount: 0.1 }}
           >
-            <span className=" text-primary-500">JOIN NOW</span>
+            <span className=" text-primary-500">JOIN NOW </span>
             TO GET IN SHAPE
           </motion.h1>
           <p className="my-5">
